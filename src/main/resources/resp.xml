@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<user>
+    <enabled>true</enabled>
+    <externallyDefined>false</externallyDefined>
+    <fullName>superuser</fullName>
+    <previousPasswordChangeTime>2014-11-28T23:47:44.732Z</previousPasswordChangeTime>
+    <roles>
+        <role>
+            <externallyDefined>false</externallyDefined>
+            <name>ROLE_SUPERUSER</name>
+        </role>
+        <role>
+            <externallyDefined>false</externallyDefined>
+            <name>ROLE_ADMINISTRATOR</name>
+        </role>
+    </roles>
+    <username>superuser</username>
+</user>

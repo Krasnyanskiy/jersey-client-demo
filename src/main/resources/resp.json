@@ -1,0 +1,17 @@
+{
+  "fullName": "superuser",
+  "externallyDefined": false,
+  "enabled": true,
+  "previousPasswordChangeTime": 1417218464732,
+  "username": "superuser",
+  "roles": [
+    {
+      "name": "ROLE_SUPERUSER",
+      "externallyDefined": false
+    },
+    {
+      "name": "ROLE_ADMINISTRATOR",
+      "externallyDefined": false
+    }
+  ]
+}
